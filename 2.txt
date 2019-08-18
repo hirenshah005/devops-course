@@ -1,1 +1,2 @@
-This is 2nd file in Git test
+This is 2nd file in Git test.
+These are few changes.
